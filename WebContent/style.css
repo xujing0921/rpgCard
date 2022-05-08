@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+	background: green;
+	color: white;
+}
+
+form {
+	float: left;
+	text-align: right;
+}
+
+h3, label {
+	color: black;
+	font-weight: bolder;
+}
+
+input {
+	background-color: black;
+	width: 150px;
+	height: 40px;
+	margin: 17px;
+	color: white;
+	font-size: 20px;
+	padding: 4px;
+}
+
+table {
+	float: left;
+	width: 400px;
+	height: 630px;
+	margin-left: 130px;
+	margin-top: 20px;
+	font-size: 20px;
+	margin-left: 130px;
+}
